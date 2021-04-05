@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <!--![](file:///Users/julia/Desktop/julialeexu/images/circle-cropped.png)-->
 ### :cat2: Hi, I'm **Julia**! 
-[Go to read me section](#how-to-reach-me)
+[how to reach me](#how-to-reach-me)
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
