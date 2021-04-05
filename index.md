@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 > nice to meet you!
 
-![ucsd logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png | width=100)
+![ucsd logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png =250x250)
 
 - :school: I am a junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! 
 
