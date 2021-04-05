@@ -12,11 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![](file:///Users/julia/Desktop/julialeexu/images/circle-cropped.png)-->
-### :cat2: [Hi, I'm **Julia**!] (https://github.com/juliyaya007)
+### :cat2: Hi, I'm **Julia**! 
+[Go to read me section](#how-to-reach-me)
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 > nice to meet you!
+
+![ucsd](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png)
+
 - :school: I am a junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! 
 
 - :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
@@ -33,7 +37,7 @@ Currently, I'm working on my project facedraw about human cognition and computat
 I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I participate in Kaggle competitions.
 <p>&nbsp;</p> 
 
-### 📫 How to reach me
+# How to reach me
 :small_blue_diamond: [Linkedin](https://www.linkedin.com/in/julialeexu/) :small_blue_diamond: Website(Stay tuned!) :small_blue_diamond: [Email](mailto:jlxu@ucsd.edu)
 
 [Chechout my readme page here!](readme.md)
@@ -46,5 +50,5 @@ git push
 ```
 
 If you like my content please:
-- [x] read thi spage
+- [x] read this spage
 - [ ] follow me!
